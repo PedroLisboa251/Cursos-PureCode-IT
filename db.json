@@ -1,0 +1,16 @@
+{
+  "animals": [
+    {
+      "id": "3",
+      "name": "Petigatô",
+      "type": "Cat",
+      "age": 2
+    },
+    {
+      "id": "4",
+      "name": "Pipoca",
+      "type": "Cat",
+      "age": 2
+    }
+  ]
+}
